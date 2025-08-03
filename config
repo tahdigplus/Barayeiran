@@ -8,7 +8,7 @@ vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.26.7.89:443?encryption=none&sec
 
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?encryption=none&security=none&sni=barayeiranmahsang.juveitaly.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.juveitaly.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%205
 
-vless://b28eb861-1748-4200-ba72-278669edc33b@deepseek.com:443?encryption=none&security=tls&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%206
+vless://b28eb861-1748-4200-ba72-278669edc33b@172.67.247.111:443?encryption=none&security=tls&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%206
 
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.25.252.44:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%207
 
@@ -20,17 +20,17 @@ vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.26.6.89:80?encryption=none&secu
 
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.27.102.73:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2011
 
-vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@deepseek.com:443?encryption=none&security=tls&sni=barayeiranmahsang.varzesh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.varzesh.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2012
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.171.19:443?encryption=none&security=tls&sni=barayeiranmahsang.varzesh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.varzesh.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2012
 
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.27.117.227:8443?encryption=none&security=tls&sni=barayeiranmahsang.varzesh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.varzesh.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2013
 
 vless://b28eb861-1748-4200-ba72-278669edc33b@172.67.141.85:80?encryption=none&security=none&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2014
 
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@deepseek.com:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2015
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.221.35:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2015
 
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@162.159.46.245:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2016
 
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@162.159.41.153:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2017
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.66.160.24:443?encryption=none&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2017
 
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.26.6.89:80?encryption=none&security=none&sni=barayeiranmahsang.varzesh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.varzesh.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2018
 
@@ -59,13 +59,13 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?encryption=none&
 
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.102.112:443?encryption=none&security=tls&sni=barayeiran-mahsang.taraneh.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.taraneh.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2030
 
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@104.18.42.163:8443?encryption=none&security=tls&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.gerald81.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2031
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.132.121:8443?encryption=none&security=tls&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.gerald81.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2031
 
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@91.206.71.162:8880?encryption=none&security=none&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random&allowInsecure=1&type=ws&host=brmahasang.ahaysiahzangi.dpdns.org&path=%2FBarayeIRan%3Fed%3D2560#Barayeiran%2032
 
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:80?encryption=none&security=none&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random&allowInsecure=1&type=ws&host=brmahasang.ahaysiahzangi.dpdns.org&path=%2FBarayeIRan%3Fed%3D2560#Barayeiran%2033
 
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?encryption=none&security=tls&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random&allowInsecure=1&type=ws&host=brmahasang.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2034
+vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@172.67.132.121:8443?encryption=none&security=tls&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random&allowInsecure=1&type=ws&host=brmahasang.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2034
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@www.speedtest.net:443?encryption=none&security=tls&sni=barayeiran-mahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.loseyourself.dpdns.org.&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2037
 
@@ -77,7 +77,7 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@www.speedtest.net:443?encryption=no
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.25.158.102:443?encryption=none&security=tls&sni=barayeiran-mahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.loseyourself.dpdns.org.&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2039
 
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@194.53.53.70:443?encryption=none&security=tls&sni=barayeiran-mahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.loseyourself.dpdns.org.&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2036
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.251.211:443?encryption=none&security=tls&sni=barayeiran-mahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.loseyourself.dpdns.org.&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2036
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.27.121.61:443?encryption=none&security=tls&sni=barayeiran-mahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiran-mahsang.loseyourself.dpdns.org.&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2041
 
@@ -89,7 +89,7 @@ vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.60.182:80?encryption=none&se
 
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.26.7.89:80?encryption=none&security=none&sni=barayeiranmahsang.bahareh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.bahareh.dpdns.org.&path=%2F%3Fed%3D2560#Barayeiran%2045
 
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@185.135.9.24:80?encryption=none&security=none&sni=barayeiranmahsang.bahareh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.bahareh.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2046
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.159.229:80?encryption=none&security=none&sni=barayeiranmahsang.bahareh.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.bahareh.dpdns.org&path=%2F%3Fed%3D2560#Barayeiran%2046
 
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.26.7.89:8443?encryption=none&security=tls&sni=barayeiran-mahsang.nazanin.dpdns.org&fp=random&allowInsecure=1&type=ws&host=barayeiran-mahsang.nazanin.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2047
 
@@ -98,3 +98,13 @@ vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.26.6.89:2096?encryption=none&se
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.26.7.89:80?encryption=none&security=none&sni=barayeiran-mahsang.nazanin.dpdns.org&fp=random&allowInsecure=1&type=ws&host=barayeiran-mahsang.nazanin.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2049
 
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@www.speedtest.net:80?encryption=none&security=none&sni=barayeiran-mahsang.nazanin.dpdns.org&fp=random&allowInsecure=1&type=ws&host=barayeiran-mahsang.nazanin.dpdns.org&path=%2FBarayeiranmahsang%3Fed%3D2560#Barayeiran%2050
+
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?encryption=none&security=none&type=ws&host=barayeiran.mahiozonboroon.qzz.io&path=%2Fbarayeiran%3Fed%3D2560#Barayeiran%2051
+
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@172.66.133.83:80?encryption=none&security=none&type=ws&host=barayeiran.mahiozonboroon.qzz.io&path=%2Fbarayeiran%3Fed%3D2560#Barayeiran%2052
+
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@172.66.148.95:80?encryption=none&security=none&type=ws&host=barayeiran.mahiozonboroon.qzz.io&path=%2Fbarayeiran%3Fed%3D2560#Barayeiran%2053
+
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@172.67.139.218:80?encryption=none&security=none&type=ws&host=barayeiran.mahiozonboroon.qzz.io&path=%2Fbarayeiran%3Fed%3D2560#Barayeiran%2054
+
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@172.66.145.163:80?encryption=none&security=none&type=ws&host=barayeiran.mahiozonboroon.qzz.io&path=%2Fbarayeiran%3Fed%3D2560#Barayeiran%2055
